@@ -1,0 +1,12 @@
+body {
+    background: url('../img/background.png') center/cover no-repeat fixed;
+}
+
+.container-section {
+    margin-top: -5rem;
+    max-height: 50vh;
+}
+
+img {
+    height: 650px;
+}
